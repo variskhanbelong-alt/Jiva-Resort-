@@ -1,7 +1,7 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
   // Ensure this matches your existing Cloudflare Worker name in the Cloudflare dashboard if different
-  "name": "jiva-resort-cherrapunjee",
+  "name": "jiva-resort",
   "compatibility_date": "2026-11-16",
   "assets": {
     "directory": "./dist",
