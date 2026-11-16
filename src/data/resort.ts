@@ -1,0 +1,43 @@
+export const RESORT_INFO = {
+  name: 'Jiva Resort Cherrapunjee',
+  shortName: 'Jiva Resort',
+  category: '3-Star Resort',
+  ratingValue: '4.5',
+  ratingScale: '5',
+  reviewSummary: 'approx. 7.2K reviews · supplied summary',
+  addressLine: 'Saitsohpen, Sohra, Meghalaya 793108, India',
+  shortLocation: 'Saitsohpen, Sohra, Meghalaya',
+  googleMapsUrl: 'https://share.google/t7PrvzRYh0YBNq2TP',
+  checkInTime: '2:00 PM',
+  checkOutTime: '12:00 PM',
+  whatsappDisplay: '+91 6207799112',
+  whatsappHref: 'https://wa.me/916207799112',
+  phoneDisplay: '+91 9762896575',
+  phoneHref: 'tel:+919762896575',
+  email: 'support.reservation.desk@gmail.com',
+  emailHref: 'mailto:support.reservation.desk@gmail.com',
+  landmarks: [
+    {
+      label: 'Sohra Golf Range',
+      distance: 'Approximately a 1-minute walk',
+    },
+    {
+      label: 'State Highway 5',
+      distance: 'Around 2 km',
+    },
+    {
+      label: 'Seven Sisters Falls',
+      distance: 'Around 3 km',
+    },
+  ],
+  heroImage: '/src/assets/images/hero_jiva_resort_1794842407158.jpg',
+  panoramaImage: '/src/assets/images/sohra_hills_panorama_1794842407717.jpg',
+  diningImage: '/src/assets/images/resort_dining_hall_1794842408167.jpg',
+  poolImage: '/src/assets/images/resort_swimming_pool_1794842408255.jpg',
+  spaImage: '/src/assets/images/resort_spa_wellness_1794842408902.jpg',
+  reservationGuidelines: [
+    'All room tariffs shown are indicative and subject to final confirmation by the resort reservation desk.',
+    'Booking will not be confirmed without advance payment as advised by the reservation team.',
+    'Same-day room availability cannot be guaranteed; prior enquiry is recommended.',
+  ],
+};
